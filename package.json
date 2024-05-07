@@ -1,0 +1,23 @@
+{
+  "name": "tarefa-ebac-19-boas-praticas-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kaycke-nizer/Tarefa-EBAC-19-Boas-praticas-CSS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kaycke-nizer/Tarefa-EBAC-19-Boas-praticas-CSS/issues"
+  },
+  "homepage": "https://github.com/kaycke-nizer/Tarefa-EBAC-19-Boas-praticas-CSS#readme",
+  "devDependencies": {
+    "sass": "^1.77.0"
+  }
+}
